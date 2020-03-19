@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+    border: 5px solid black;
+    display: flex;
+}
+
+/*
+.boxs {
+    width: 100px;
+    height: 100px;
+    background-color: salmon;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    margin: 250px auto;
+    transform: translateY(-50px);
+} */
+
+/* Dengan Flexbox */
+
+.boxs {
+    width: 100px;
+    height: 100px;
+    background-color: salmon;
+    color: white;
+    margin: auto;
+    display: flex;
+    text-align: center;
+}
+
+.boxs span {
+    margin: auto;
+}
+
+.kontainer {
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    display: flex;
+    position: absolute;
+    /* justify-content: center;
+    align-items: center; */
+}
+
+.kotakmenang {
+    width: 10em;
+    height: auto;
+    color: white;
+    margin: auto;
+    display: flex;
+    text-align: center;
+    font-size: 4em;
+}
+
+.kotakmenang p {
+    margin: auto;
+}
+
+/*
+.winner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    z-index: 1;
+    height: 100vh;
+    width: 100vw;
+} */
