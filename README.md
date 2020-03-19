@@ -1,4 +1,4 @@
-# Movie App Fight
+# Labirin Bolang
 
 Aplikasi sederhana permainan labirin dengan bola dan menuju garis selesai finish. Dibuat dengan menggunakan Matter JS Library untuk animasi di dalam Canvas API. Klik disini untuk tautan untuk dokumentasi [Matter JS](https://brm.io/matter-js/).
 
